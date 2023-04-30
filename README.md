@@ -1,2 +1,3 @@
 # learningsfdx
-Hello Git
+
+type 'git clone https://github.com/cloudblueadmin/learningsfdx.git'
